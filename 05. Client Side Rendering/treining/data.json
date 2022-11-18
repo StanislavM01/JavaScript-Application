@@ -1,0 +1,17 @@
+[
+    {
+        "title": "First Article",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus assumenda illo enim non, maioresmaxime voluptates dolore, numquam, officiis eius sequi natus!Cumque asperiores sint eum vel deserunt dignissimos quod repudiandae aliquam?Unde velit accusantium aliquam rerum tempore, sapiente iure, dolorem assumenda minus quia earum nisi,vel voluptas quaerat doloremque sit eligendi obcaecati.",
+        "author": "George Peterson"
+    },
+    {
+        "title": "Second Article",
+        "content": "Laborum aliquam quod consectetur omnis deserunt impedit porro, eligendi magnam, quidem fugit natus illoaperiam, quaerat magni in nam placeat est ut! In, sint?",
+        "author": "John Smith"
+    },
+    {
+        "title": "Third Article",
+        "content": "Alias officia facere id omnis distinctio esse, veritatis, tempore minima reiciendis qui voluptatibus ipsum ab consectetur dicta possimus recusandae incidunt? Qui, cum unde.",
+        "author": "John Wick"
+    }
+]
